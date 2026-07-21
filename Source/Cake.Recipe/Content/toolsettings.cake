@@ -50,7 +50,7 @@ public static class ToolSettings
         string codecovGlobalTool = "#tool nuget:?package=CodecovUploader&version=0.8.0",
         string coverallsGlobalTool = "#tool dotnet:?package=coveralls.net&version=1.0.0",
         string gitReleaseManagerGlobalTool = "#tool dotnet:?package=GitReleaseManager.Tool&version=0.20.0",
-        string gitVersionGlobalTool = "#tool dotnet:?package=GitVersion.Tool&version=5.12.0",
+        string gitVersionGlobalTool = "#tool dotnet:?package=GitVersion.Tool&version=6.8.2",
         string reportGeneratorGlobalTool = "#tool dotnet:?package=dotnet-reportgenerator-globaltool&version=4.8.5"
     )
     {
